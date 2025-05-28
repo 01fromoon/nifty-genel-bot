@@ -1,4 +1,4 @@
-# 🤖 Gelişmiş Discord Botu
+# 🤖 Gelişmiş, Açık kaynaklı Discord Botu
 
 Sunucunuzu en iyi şekilde yönetmek ve eğlendirmek için tasarlanmış, **açık kaynaklı** ve tamamen ücretsiz bir Discord botu!  
 Butonlu yardım menüsü, kategorili komutlar, moderasyon, eğlence ve premium özellikler ile sen de topluluğunu güçlendir!  
